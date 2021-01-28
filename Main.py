@@ -1,6 +1,4 @@
 import commands
-def hello(apple):
-    print("OMG IT WORKEDD",apple)
 
 #Take user input and split into different parts of instruction
 done = False
