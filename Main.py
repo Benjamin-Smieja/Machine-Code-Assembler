@@ -16,6 +16,7 @@ while(not done):
         continue
 
     #Calls the command 
-    method_to_Call(parsed[1:])
+    machineCode = method_to_Call(parsed[1:])
     done = 1
 
+print(machineCode)
